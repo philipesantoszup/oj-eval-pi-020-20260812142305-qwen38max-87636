@@ -1,0 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.bak
+code
+test
+*.o
+stress
+stress.c
